@@ -1,0 +1,8 @@
+form {
+	text-align: center;
+}
+
+.errorBlock {
+	color: red;
+	font-weight: bold;
+}
